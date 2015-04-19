@@ -1,0 +1,21 @@
+Sample Output
+
+The program should display a list of all of the words found in the text along with the number of
+occurrences of that word. Words that are used only once should be listed separately after all those
+that appear multiple times. Note that this does not mean the words have to be sorted (see below). Capitalization
+and punctuation should be ignored; i.e., “Hello” is the same word as “hello.” For example, if the
+input was:
+
+Text File:
+Computer Science is swell. The computer is my pal.
+Is it yours? DONE
+
+The output would be something like:
+
+Word Number of Occurrences
+===================================
+is 3
+computer 2
+Words with one occurrence
+===================================
+science swell the my pal it yours
